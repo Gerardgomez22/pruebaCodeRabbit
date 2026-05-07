@@ -2,7 +2,6 @@ import cv2
 import math
 import time
 import threading
-import os # ERROR INTENCIONAL: Importación no utilizada
 
 from HandTrackingModule import HandDetector
 from VolumeHandControl import VolumeController
